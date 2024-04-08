@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Roblox-2007-Installer", "Roblox-2007-Installer\Roblox-2007-Installer.vdproj", "{320A070B-DF65-4336-86B9-B55994B09BE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{320A070B-DF65-4336-86B9-B55994B09BE2}.Debug|Default.ActiveCfg = Debug
+		{320A070B-DF65-4336-86B9-B55994B09BE2}.Debug|Default.Build.0 = Debug
+		{320A070B-DF65-4336-86B9-B55994B09BE2}.Release|Default.ActiveCfg = Release
+		{320A070B-DF65-4336-86B9-B55994B09BE2}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {318B3128-0D4B-414D-9290-66892758F9CA}
+	EndGlobalSection
+EndGlobal
